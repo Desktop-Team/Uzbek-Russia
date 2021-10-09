@@ -1,6 +1,7 @@
 **This is a telegram bot.**
 
-***MISSION.***
+***MISSION:***
+
  ***Words and letters entered in the Uzbek alphabet into the Russian alphabet turns.***
 
 
@@ -13,7 +14,8 @@ FOR USE:
 >5.Put the "bot_tg_kl" file of this bot after your newly opened bot and give the "run" command.
 '''
 
-***RECOMMENDATION***
+***RECOMMENDATION:***
+
 *If the bot worked, pour it on the server for all to use.*
 *That's how many people benefit.*
 
