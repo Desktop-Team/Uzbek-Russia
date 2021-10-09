@@ -1,4 +1,4 @@
-This is a telegram bot.
+> This is a telegram bot.
 MISSION.
  Words and letters entered in the Uzbek alphabet into the Russian alphabet turns.
 FOR USE
